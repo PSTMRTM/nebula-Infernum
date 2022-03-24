@@ -4,11 +4,11 @@
 	path = "ministation"
 	ground_noun = "floor"
 
-	station_name = "Space Station Zebra"
-	station_short = "Zebra"
+	station_name = "Infernum"
+	station_short = "Hell"
 
 	dock_name     = "Finite Beginnings Free Dock"
-	boss_name     = "Trade Administration"
+	boss_name     = "Hades"
 	boss_short    = "Admin"
 	company_name  = "Free Trade Union Residual Delta"
 	company_short = "RD"
@@ -16,6 +16,7 @@
 	default_law_type = /datum/ai_laws/nanotrasen
 
 	lobby_screens = list('maps/ministation/ministation_lobby.png')
+	lobby_tracks = list(/decl/music_track/hades)
 
 	//TEMPORARY NOTE: Evac messages are temporary until its set up properly. Make sure they're changed later.
 	emergency_shuttle_leaving_dock = "Attention all crew members: the escape shuttle will be arriving shortly, please prepare to board."
@@ -39,8 +40,7 @@
 
 
 /datum/map/ministation/get_map_info()
-	return "You're aboard the <b>[station_name],</b> an older station once used for unethical scientific research. It has long since been repurposed as deep space communication relay, though only on paper. \
-	Onboard activity is at the whims of the [boss_name] who treat the station as a glorafied dogsbody, and sometimes guinea pig."
+	return "Welcome to <b>[station_name]</b>, otherwise known as <b>[station_short]</b>, <b>[boss_name]'s</b> domain"
 
 /datum/evacuation_controller/ministation_substitute
 	name = "lazy ministation evac controller"
