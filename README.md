@@ -8,6 +8,12 @@
 
 ---
 
+### PROJECT INFORMATION
+
+Discord server: https://discord.gg/FhpEuBEMpM
+
+---
+
 ### NOTICE OF MODIFICATION
 
 This project was forked from [Nebula](https://github.com/NebulaSS13/Nebula) on 23 March 2022.
