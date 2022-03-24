@@ -81,6 +81,7 @@ var/global/list/music_tracks = list(
 	"Fleet Party Theme" = /decl/music_track/one_loop,
 	"Scratch" = /decl/music_track/level3_mod,
 	"Absconditus" = /decl/music_track/absconditus,
+	"Hades" = /decl/music_track/hades,
 	"lasers rip apart the bulkhead" = /decl/music_track/lasers,
 	"Maschine Klash" = /decl/music_track/digit_one,
 	"Comet Halley" = /decl/music_track/comet_haley,
