@@ -6,18 +6,11 @@
   <br>
 </h1>
 
-<p align="center">
-  <a href="#contributing-guidelines">Contributing Guidelines</a> •
-  <a href="#security">Security</a> •
-  <a href="#license">License</a> •
-  <a href="#getting-the-code-and-installing">Getting the Code and Installing</a>
-</p>
-
 ---
 
 ### NOTICE OF MODIFICATION
 
-This project was forked from [Nebula](https://github.com/Baystation12/Baystation12) on 23 March 2022.
+This project was forked from [Nebula](https://github.com/NebulaSS13/Nebula) on 23 March 2022.
 
 ---
 
