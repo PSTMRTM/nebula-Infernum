@@ -1,5 +1,8 @@
 <h1 align="center">
   <br>
+  <a href="https://github.com/PSTMRTM/nebula-Infernum/"><img src="https://media.discordapp.net/attachments/956220317162938410/956410912988889128/Infernum.png" alt="Infernum" width="200"></a>
+  <br>
+  <br>
   <a href="https://github.com/NebulaSS13/Nebula"><img src="https://avatars1.githubusercontent.com/u/61128341" alt="Nebula 13" width="200"></a>
   <br>
   Nebula 13
